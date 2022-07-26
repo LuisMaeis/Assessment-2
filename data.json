@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 13 Pro",
+        "brand": "Apple",
+        "description": "Latest iPhone",
+        "price": 1000,
+        "image": "images/iPhone.png"
+                
+    },
+    {
+        "id": 2,
+        "name": "Samsung S21+",
+        "brand": "Samsung",
+        "description":"Latest Samsung",
+        "price": 1000,
+        "image": "images/samsung.png"
+                
+    },
+    {
+        "id": 3,
+        "name": "P30 Pro",
+        "brand": "Huawei",
+        "description": "Latest Huawei",
+        "price": 900,
+        "image": "images/huawei.png"
+                
+    },
+    {
+        "id": 4,
+        "name": "OPPO A74 5G",
+        "brand": "Oppo",
+        "description":"Latest Oppo",
+        "price": 850,
+        "image": "images/oppo.png"
+                
+    },
+    {
+        "id": 5,
+        "name": "X80 5G",
+        "brand": "Vivo",
+        "description":"Latest Vivo",
+        "price": 859,
+        "image": "images/vivo.png"
+                
+    },
+    {
+        "id": 6,
+        "name": "12S Ultra",
+        "brand": "Xiaomi",
+        "description": "Latest Xiaomi",
+        "price": 900,
+        "image": "images/xiaomi.png"
+                
+    },
+    {
+        "id": 7,
+        "name": "G21",
+        "brand": "Nokia",
+        "description": "Latest Nokia",
+        "price": 800,
+        "image": "images/nokia.png"
+                
+    },
+    {
+        "id": 8,
+        "name": "G2",
+        "brand": "LG",
+        "description": "Latest LG",
+        "price": 850,
+        "image": "images/lg.png"
+                
+    }
+    
+]
